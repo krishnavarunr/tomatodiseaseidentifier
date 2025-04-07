@@ -1,7 +1,6 @@
 streamlit==1.29.0
 numpy==1.26.4
 opencv-python-headless==4.11.0  # Use headless version for cloud deployment
-scikit-learn==1.2.1
+scikit-learn==1.6.1
 scikit-image==0.19.3
 joblib==1.1.1
-rich>=10.14.0,<14
